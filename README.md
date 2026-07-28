@@ -14,5 +14,6 @@ The following libraries and tools were used:
 ## A Closer Look
 ### Context
 ![Intro](slides/Slide2.JPG)
-
+![BusinessDilemma](slides/Slide3.JPG)
+![ResearchQuestions](slides/Slide4.JPG)
 ### Methods and Data
