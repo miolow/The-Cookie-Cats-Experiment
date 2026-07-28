@@ -13,6 +13,6 @@ The following libraries and tools were used:
 
 ## A Closer Look
 ### Context
-![](slides_pics/Slide2.JPG)
+![Intro](slides/Slide2.JPG)
 
 ### Methods and Data
