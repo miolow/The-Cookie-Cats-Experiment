@@ -1,9 +1,7 @@
 # The Cookie Cats Experiment
 
 ## Project Overview
-This project analyzes A/B experiment data for the mobile game, Cookie Cats.
-
-## Features
+This project analyzes A/B experiment data for the mobile game, Cookie Cats. It answers three questions and makes recommendations to the product team to not shift the gate from level 30 to level 40. The questions examined in this project include: (1) does moving the gate from level 30 to 40 significantly impact player retention? (2) Does moving the gate from level 30 to 40 have a significant impact on Day 1 and Day 7 retention? (3) Is there a habit forming threshold in which players become significantly more likely to stick with the game.
 
 ## Tech Stack
 The following libraries and tools were used:
