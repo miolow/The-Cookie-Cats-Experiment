@@ -58,4 +58,4 @@ The Day 7 retention curve (teal) behaves different. It starts lower and climbs m
 This pattern offers a visual answer to the habit-forming question. Short-term "stickiness" (Day 1) appears to lock in relatively early, somewhere in the first 20-40 rounds. After that point, playing more does not meaningfully change whether someone comes back the next day. Long-term retention (Day 7) on the other hand, keeps building with continued engagement well beyond that point, suggesting that habit formation over a longer horizon requires deeper, sustained play rather than just an early engagement spike. 
 
 #### Recommendations to the Product Team
-![Rec](slides/Slides13.JPG)
+![Rec](slides/Slides13.png)
