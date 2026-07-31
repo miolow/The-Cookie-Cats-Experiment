@@ -45,8 +45,16 @@ In the analysis for our second and third outcome variable, day 1 and day 7 reten
 
 ### Question: Is there a "habit-forming" threshold, a level of engagement beyond which players become significantly more likely to stick with the game?
 ![habitforming](slides/Slide10.JPG)
+
+To explore whether there's an engagement level associated with stronger retention, players were grouped into buckets based on total rounds played (e.g., 0, 1-4, 5-9...). Within each bucket, the percentage of players who returned on Day 1 and Day 7 was calculated. This allows us to see how retention likelihood changes as engagement increases. 
+
 [![Threshold Chart](threshold_chart.png)](https://github.com/miolow/The-Cookie-Cats-Experiment/blob/main/threshold_chart.html)
 * Click the chart above to explore the interactive version. *
-#### Descriptive Evidence
 
-#### A Closer Examination
+The Day 1 retention curve (gold) rises steeply through the early buckets, then flattens out. It climbed from just 2% (players with 0 rounds) to 56% by the 20-29 rounds bucket, before leveling off and gaining only marginally beyond that point.
+
+The Day 7 retention curve (teal) behaves different. It starts lower and climbs more gradually, but keeps rising well past where Day 1 has already flattened. It continues to gain meaningfully all the way through the 100-199 rounds range. 
+
+This pattern offers a visual answer to the habit-forming question. Short-term "stickiness" (Day 1) appears to lock in relatively early, somewhere in the first 20-40 rounds. After that point, playing more does not meaningfully change whether someone comes back the next day. Long-term retention (Day 7) on the other hand, keeps building with continued engagement well beyond that point, suggesting that habit formation over a longer horizon requires deeper, sustained play rather than just an early engagement spike. 
+
+
