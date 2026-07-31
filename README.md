@@ -34,8 +34,19 @@ In the analysis for our second and third outcome variable, day 1 and day 7 reten
 ![Q1](slides/Slide5.JPG)
 
 
+
 #### Day 1 Retention
 ![Q2](slides/Slide6.JPG)
 
 #### Day 7 Retention
 ![Q3](slides/Slide7.JPG)
+
+### Question: Should Cookie Cats move its gate from Level 30 to Level 40?
+![movetolevel40](slides/Slide9.JPG)
+
+### Question: Is there a "habit-forming" threshold, a level of engagement beyond which players become significantly more likely to stick with the game?
+![habitforming](slides/Slide10.JPG)
+
+#### Descriptive Evidence
+
+#### A Closer Examination
