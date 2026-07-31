@@ -45,7 +45,8 @@ In the analysis for our second and third outcome variable, day 1 and day 7 reten
 
 ### Question: Is there a "habit-forming" threshold, a level of engagement beyond which players become significantly more likely to stick with the game?
 ![habitforming](slides/Slide10.JPG)
-
+[![Threshold Chart](threshold_chart.png)](https://github.com/miolow/The-Cookie-Cats-Experiment/blob/main/threshold_chart.html)
+* Click the chart above to explore the interactive version. *
 #### Descriptive Evidence
 
 #### A Closer Examination
