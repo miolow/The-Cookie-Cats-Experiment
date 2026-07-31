@@ -32,7 +32,7 @@ In the analysis for our second and third outcome variable, day 1 and day 7 reten
 ### Analysis and Results
 #### Sum of Rounds Played
 ![Q1](slides/Slide5.JPG)
-[![Comparison Chart](comparison_chart.png)](https://github.com/miolow/The-Cookie-Cats-Experiment/blob/main/test_chart.html)
+[![Comparison Chart](comparison_chart.png)](https://github.com/miolow/The-Cookie-Cats-Experiment/blob/main/comparison_chart.html)
 * Click the chart above to explore the interactive version. *
 #### Day 1 Retention
 ![Q2](slides/Slide6.JPG)
