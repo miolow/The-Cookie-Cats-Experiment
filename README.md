@@ -1,7 +1,9 @@
 # The Cookie Cats Experiment
 
 ## Project Overview
-This project analyzes A/B experiment data for the mobile game, Cookie Cats. It answers three questions and makes recommendations to the product team to not shift the gate from level 30 to level 40. The questions examined in this project include: (1) does moving the gate from level 30 to 40 significantly impact player retention? (2) Does moving the gate from level 30 to 40 have a significant impact on Day 1 and Day 7 retention? (3) Is there a habit forming threshold in which players become significantly more likely to stick with the game.
+This project analyzes A/B experiment data for the mobile game, Cookie Cats. Cookie Cats currently pauses players at level 30 ("a gate") before they can keep playing. I tested moving that gate to level 40 instead, to see if it changes how players behave.
+
+I found that moving the gate doesn't meaningfully change how much players play. It doesn't help with retention either. In fact, keeping the gate at level 30 is slightly better. There also appears to be a "habit forming" zone and it happens early in the game. Players who reach roughly 20-40 rounds are more likely to come back the next day. Longer-term loyalty (returning a week later) takes more time. Players generally need to reach 100+ rounds before the same leveling off happens.
 
 ## Tech Stack
 The following libraries and tools were used:
