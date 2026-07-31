@@ -48,7 +48,7 @@ In the analysis for our second and third outcome variable, day 1 and day 7 reten
 
 To explore whether there's an engagement level associated with stronger retention, players were grouped into buckets based on total rounds played (e.g., 0, 1-4, 5-9...). Within each bucket, the percentage of players who returned on Day 1 and Day 7 was calculated. This allows us to see how retention likelihood changes as engagement increases. 
 
-[![Threshold Chart](threshold_chart.png)](https://github.com/miolow/The-Cookie-Cats-Experiment/blob/main/threshold_chart.html)
+[![Threshold Chart](https://github.com/miolow/The-Cookie-Cats-Experiment/raw/main/threshold_chart.png)](https://miolow.github.io/The-Cookie-Cats-Experiment/threshold_chart.html)
 * Click the chart above to explore the interactive version. *
 
 The Day 1 retention curve (gold) rises steeply through the early buckets, then flattens out. It climbed from just 2% (players with 0 rounds) to 56% by the 20-29 rounds bucket, before leveling off and gaining only marginally beyond that point.
